@@ -1,4 +1,4 @@
-django==2.0.2 
+django==2.2.28 
 psycopg2-binary
 django-cors-headers
 graphene==2.0.1 
